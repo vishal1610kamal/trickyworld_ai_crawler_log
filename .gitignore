@@ -1,0 +1,6 @@
+# Downloaded by --update-ranges; they change, so each install fetches its own copy.
+/ranges/
+__pycache__/
+*.pyc
+*.json.out
+report.json
