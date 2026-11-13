@@ -5,8 +5,7 @@ server's access log, names every request from a known AI or search bot, and chec
 IP lists that Anthropic, Google, OpenAI, Perplexity and Microsoft publish. Google agents missing from those lists
 are checked by reverse and forward DNS, the way Google documents.
 
-This is the code from the TrickyWorld article
-[AI crawlers vs AEO: Claude and Gemini in our logs](https://www.trickyworld.in/artificial-intelligence-machine-learning/ai-agents/ai-crawlers-claude-gemini-logs/),
+This is the code from [TrickyWorld's article on AI crawlers and AEO](https://www.trickyworld.in/artificial-intelligence-machine-learning/ai-agents/ai-crawlers-claude-gemini-logs/),
 which explains what each bot is for and what the numbers mean.
 
 One file, Python 3.10 or newer, standard library only. Nothing to install.
